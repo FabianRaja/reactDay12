@@ -13,4 +13,4 @@ SubTotal ---> It is calculated using quantity added using add item and the produ
 CheckOut ---> This button will calculate the total price using subtotal item and discount percentage and will show the saved price  using discount
 
 
-- [Live Server](https://reactday8byfabianrajafernando.netlify.app/) 
+- [Live Server](https://reactreduxday12byfabianrajafernando.netlify.app/) 
